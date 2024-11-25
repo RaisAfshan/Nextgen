@@ -1,0 +1,11 @@
+.main{
+    position: relative;
+}
+.crd{
+    position:absolute;
+    top: 50;
+    bottom:0 ;
+    left:2;
+    right: 2;
+    transform: translate(20px,50px);
+}
